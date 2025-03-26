@@ -1,0 +1,336 @@
+[
+  {
+    "id": 1,
+    "name": "Modern Sofa",
+    "category": "Living Room",
+    "material": "Leather",
+    "dimensions": {
+      "width": "200cm",
+      "height": "90cm",
+      "depth": "85cm"
+    },
+    "colors": [
+      {
+        "name": "Black",
+        "hex": "#000000"
+      },
+      {
+        "name": "Brown",
+        "hex": "#8B4513"
+      }
+    ],
+    "price": 1200,
+    "brand": "LuxuryHome",
+    "availability": {
+      "in_stock": true,
+      "delivery_time": "7-10 days"
+    },
+    "features": [
+      {
+        "name": "Recliner function",
+        "description": "Adjustable reclining positions."
+      },
+      {
+        "name": "Stain-resistant",
+        "description": "Easy-to-clean fabric."
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Wooden Dining Table",
+    "category": "Dining Room",
+    "material": "Oak Wood",
+    "dimensions": {
+      "width": "180cm",
+      "height": "75cm",
+      "depth": "90cm"
+    },
+    "colors": [
+      {
+        "name": "Natural Oak",
+        "hex": "#C3A47D"
+      }
+    ],
+    "price": 850,
+    "brand": "EcoFurniture",
+    "availability": {
+      "in_stock": false,
+      "delivery_time": "3-4 weeks"
+    },
+    "features": [
+      {
+        "name": "Extendable",
+        "description": "Expands for extra seating."
+      },
+      {
+        "name": "Water-resistant",
+        "description": "Protects from spills."
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Ergonomic Office Chair",
+    "category": "Office",
+    "material": "Mesh & Metal",
+    "dimensions": {
+      "width": "70cm",
+      "height": "120cm",
+      "depth": "60cm"
+    },
+    "colors": [
+      {
+        "name": "Black",
+        "hex": "#000000"
+      }
+    ],
+    "price": 300,
+    "brand": "WorkComfort",
+    "availability": {
+      "in_stock": true,
+      "delivery_time": "5-7 days"
+    },
+    "features": [
+      {
+        "name": "Lumbar support",
+        "description": "Reduces back pain."
+      },
+      {
+        "name": "360-degree swivel",
+        "description": "Allows free movement."
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "King Size Bed",
+    "category": "Bedroom",
+    "material": "Solid Wood & Upholstery",
+    "dimensions": {
+      "width": "200cm",
+      "height": "150cm",
+      "depth": "210cm"
+    },
+    "colors": [
+      {
+        "name": "Beige",
+        "hex": "#F5F5DC"
+      }
+    ],
+    "price": 1800,
+    "brand": "DreamBeds",
+    "availability": {
+      "in_stock": true,
+      "delivery_time": "10-14 days"
+    },
+    "features": [
+      {
+        "name": "Memory foam",
+        "description": "Contours to body shape."
+      },
+      {
+        "name": "Storage drawers",
+        "description": "Extra under-bed storage."
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Glass Coffee Table",
+    "category": "Living Room",
+    "material": "Tempered Glass & Steel",
+    "dimensions": {
+      "width": "120cm",
+      "height": "45cm",
+      "depth": "60cm"
+    },
+    "colors": [
+      {
+        "name": "Clear",
+        "hex": "#FFFFFF"
+      }
+    ],
+    "price": 400,
+    "brand": "GlassWorks",
+    "availability": {
+      "in_stock": true,
+      "delivery_time": "5-7 days"
+    },
+    "features": [
+      {
+        "name": "Shatterproof glass",
+        "description": "Strong tempered glass."
+      },
+      {
+        "name": "Modern design",
+        "description": "Minimalist style."
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Bookshelf",
+    "category": "Study Room",
+    "material": "Pine Wood",
+    "dimensions": {
+      "width": "80cm",
+      "height": "200cm",
+      "depth": "35cm"
+    },
+    "colors": [
+      {
+        "name": "Light Wood",
+        "hex": "#DEB887"
+      }
+    ],
+    "price": 250,
+    "brand": "BookSpace",
+    "availability": {
+      "in_stock": false,
+      "delivery_time": "2-3 weeks"
+    },
+    "features": [
+      {
+        "name": "Adjustable shelves",
+        "description": "Customizable heights."
+      },
+      {
+        "name": "Scratch-resistant",
+        "description": "Durable coating."
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "TV Stand",
+    "category": "Entertainment",
+    "material": "Engineered Wood",
+    "dimensions": {
+      "width": "150cm",
+      "height": "50cm",
+      "depth": "40cm"
+    },
+    "colors": [
+      {
+        "name": "Walnut",
+        "hex": "#654321"
+      }
+    ],
+    "price": 320,
+    "brand": "HomeView",
+    "availability": {
+      "in_stock": true,
+      "delivery_time": "4-6 days"
+    },
+    "features": [
+      {
+        "name": "Cable management",
+        "description": "Hides messy wires."
+      },
+      {
+        "name": "Soft-close drawers",
+        "description": "Noise-free closing."
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Nightstand",
+    "category": "Bedroom",
+    "material": "MDF Wood",
+    "dimensions": {
+      "width": "50cm",
+      "height": "60cm",
+      "depth": "40cm"
+    },
+    "colors": [
+      {
+        "name": "White",
+        "hex": "#FFFFFF"
+      }
+    ],
+    "price": 180,
+    "brand": "CozyHomes",
+    "availability": {
+      "in_stock": true,
+      "delivery_time": "5-8 days"
+    },
+    "features": [
+      {
+        "name": "USB charging ports",
+        "description": "Built-in charging station."
+      },
+      {
+        "name": "Soft-close drawers",
+        "description": "Quiet operation."
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Shoe Rack",
+    "category": "Entryway",
+    "material": "Bamboo",
+    "dimensions": {
+      "width": "90cm",
+      "height": "50cm",
+      "depth": "35cm"
+    },
+    "colors": [
+      {
+        "name": "Natural Bamboo",
+        "hex": "#D2B48C"
+      }
+    ],
+    "price": 120,
+    "brand": "GreenHome",
+    "availability": {
+      "in_stock": true,
+      "delivery_time": "3-5 days"
+    },
+    "features": [
+      {
+        "name": "Eco-friendly",
+        "description": "Made from sustainable bamboo."
+      },
+      {
+        "name": "Compact design",
+        "description": "Fits small spaces."
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Bar Stool",
+    "category": "Kitchen",
+    "material": "Metal & Faux Leather",
+    "dimensions": {
+      "width": "40cm",
+      "height": "75cm",
+      "depth": "40cm"
+    },
+    "colors": [
+      {
+        "name": "Black",
+        "hex": "#000000"
+      }
+    ],
+    "price": 150,
+    "brand": "UrbanStyle",
+    "availability": {
+      "in_stock": true,
+      "delivery_time": "2-4 days"
+    },
+    "features": [
+      {
+        "name": "Height adjustable",
+        "description": "Gas lift for custom height."
+      },
+      {
+        "name": "Swivel seat",
+        "description": "360-degree rotation."
+      }
+    ]
+  }
+]

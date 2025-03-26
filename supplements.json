@@ -1,0 +1,246 @@
+[
+  {
+    "id": 1,
+    "brand_name": "Optimum Nutrition",
+    "country": "USA",
+    "founded": 1986,
+    "products": [
+      {
+        "product_name": "Gold Standard Whey",
+        "category": "Protein Powder",
+        "ingredients": [
+          "Whey Protein Isolate",
+          "Whey Protein Concentrate",
+          "BCAAs"
+        ],
+        "flavors": [
+          {
+            "name": "Double Rich Chocolate",
+            "hex": "#5D4037"
+          },
+          {
+            "name": "Vanilla Ice Cream",
+            "hex": "#F3E5AB"
+          }
+        ],
+        "price": 59.99
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "brand_name": "MuscleTech",
+    "country": "Canada",
+    "founded": 1995,
+    "products": [
+      {
+        "product_name": "Nitro-Tech",
+        "category": "Protein Powder",
+        "ingredients": [
+          "Whey Protein Isolate",
+          "Creatine Monohydrate",
+          "Glutamine"
+        ],
+        "flavors": [
+          {
+            "name": "Milk Chocolate",
+            "hex": "#6F4E37"
+          }
+        ],
+        "price": 69.99
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "brand_name": "Garden of Life",
+    "country": "USA",
+    "founded": 2000,
+    "products": [
+      {
+        "product_name": "Vitamin Code Women",
+        "category": "Multivitamin",
+        "ingredients": [
+          "Vitamin A",
+          "Vitamin C",
+          "Probiotics"
+        ],
+        "flavors": [
+          {
+            "name": "Unflavored",
+            "hex": "#FFFFFF"
+          }
+        ],
+        "price": 34.99
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "brand_name": "NOW Foods",
+    "country": "USA",
+    "founded": 1968,
+    "products": [
+      {
+        "product_name": "Omega-3 Fish Oil",
+        "category": "Essential Fatty Acids",
+        "ingredients": [
+          "Fish Oil",
+          "EPA",
+          "DHA"
+        ],
+        "flavors": [
+          {
+            "name": "Natural Lemon",
+            "hex": "#FDE910"
+          }
+        ],
+        "price": 19.99
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "brand_name": "Thorne Research",
+    "country": "USA",
+    "founded": 1984,
+    "products": [
+      {
+        "product_name": "Basic Nutrients 2/Day",
+        "category": "Multivitamin",
+        "ingredients": [
+          "Vitamin D",
+          "Magnesium",
+          "Zinc"
+        ],
+        "flavors": [
+          {
+            "name": "Unflavored",
+            "hex": "#FFFFFF"
+          }
+        ],
+        "price": 29.99
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "brand_name": "Jarrow Formulas",
+    "country": "USA",
+    "founded": 1977,
+    "products": [
+      {
+        "product_name": "Probiotic Jarro-Dophilus",
+        "category": "Probiotics",
+        "ingredients": [
+          "Lactobacillus",
+          "Bifidobacterium",
+          "Prebiotics"
+        ],
+        "flavors": [
+          {
+            "name": "Unflavored",
+            "hex": "#FFFFFF"
+          }
+        ],
+        "price": 24.99
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "brand_name": "NutraBio",
+    "country": "USA",
+    "founded": 1996,
+    "products": [
+      {
+        "product_name": "Super Carb",
+        "category": "Carbohydrate Supplement",
+        "ingredients": [
+          "Cluster Dextrin",
+          "Electrolytes",
+          "Beta-Alanine"
+        ],
+        "flavors": [
+          {
+            "name": "Fruit Punch",
+            "hex": "#E32636"
+          }
+        ],
+        "price": 39.99
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "brand_name": "BSN",
+    "country": "USA",
+    "founded": 2001,
+    "products": [
+      {
+        "product_name": "NO-Xplode",
+        "category": "Pre-Workout",
+        "ingredients": [
+          "Creatine",
+          "Beta-Alanine",
+          "Caffeine"
+        ],
+        "flavors": [
+          {
+            "name": "Blue Raspberry",
+            "hex": "#0000FF"
+          }
+        ],
+        "price": 49.99
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "brand_name": "GNC",
+    "country": "USA",
+    "founded": 1935,
+    "products": [
+      {
+        "product_name": "Mega Men Sport",
+        "category": "Multivitamin",
+        "ingredients": [
+          "Vitamin B12",
+          "Calcium",
+          "Ginseng"
+        ],
+        "flavors": [
+          {
+            "name": "Unflavored",
+            "hex": "#FFFFFF"
+          }
+        ],
+        "price": 29.99
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "brand_name": "MyProtein",
+    "country": "United Kingdom",
+    "founded": 2004,
+    "products": [
+      {
+        "product_name": "Impact Whey Protein",
+        "category": "Protein Powder",
+        "ingredients": [
+          "Whey Protein Concentrate",
+          "Amino Acids",
+          "Enzymes"
+        ],
+        "flavors": [
+          {
+            "name": "Chocolate Brownie",
+            "hex": "#5C4033"
+          }
+        ],
+        "price": 49.99
+      }
+    ]
+  }
+]

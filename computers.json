@@ -1,0 +1,246 @@
+[
+  {
+    "id": 1,
+    "brand_name": "Apple",
+    "country": "USA",
+    "founded": 1976,
+    "models": [
+      {
+        "model_name": "MacBook Pro 16",
+        "specifications": {
+          "processor": "Apple M3 Pro",
+          "ram": "16GB",
+          "storage": "1TB SSD",
+          "graphics": "Apple M3 GPU"
+        },
+        "colors": [
+          {
+            "name": "Silver",
+            "hex": "#C0C0C0"
+          },
+          {
+            "name": "Space Gray",
+            "hex": "#4A4A4A"
+          }
+        ],
+        "price": 2499
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "brand_name": "Dell",
+    "country": "USA",
+    "founded": 1984,
+    "models": [
+      {
+        "model_name": "XPS 15",
+        "specifications": {
+          "processor": "Intel Core i9-13900H",
+          "ram": "32GB",
+          "storage": "1TB SSD",
+          "graphics": "NVIDIA RTX 4070"
+        },
+        "colors": [
+          {
+            "name": "Platinum Silver",
+            "hex": "#D3D3D3"
+          }
+        ],
+        "price": 2399
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "brand_name": "HP",
+    "country": "USA",
+    "founded": 1939,
+    "models": [
+      {
+        "model_name": "Spectre x360",
+        "specifications": {
+          "processor": "Intel Core i7-1360P",
+          "ram": "16GB",
+          "storage": "1TB SSD",
+          "graphics": "Intel Iris Xe"
+        },
+        "colors": [
+          {
+            "name": "Nightfall Black",
+            "hex": "#191919"
+          }
+        ],
+        "price": 1899
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "brand_name": "Lenovo",
+    "country": "China",
+    "founded": 1984,
+    "models": [
+      {
+        "model_name": "ThinkPad X1 Carbon",
+        "specifications": {
+          "processor": "Intel Core i7-1385U",
+          "ram": "16GB",
+          "storage": "1TB SSD",
+          "graphics": "Intel Iris Xe"
+        },
+        "colors": [
+          {
+            "name": "Deep Black",
+            "hex": "#0B0B0B"
+          }
+        ],
+        "price": 1899
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "brand_name": "Asus",
+    "country": "Taiwan",
+    "founded": 1989,
+    "models": [
+      {
+        "model_name": "ROG Zephyrus G14",
+        "specifications": {
+          "processor": "AMD Ryzen 9 6900HS",
+          "ram": "32GB",
+          "storage": "1TB SSD",
+          "graphics": "AMD Radeon RX 6800S"
+        },
+        "colors": [
+          {
+            "name": "Eclipse Gray",
+            "hex": "#4B4B4B"
+          }
+        ],
+        "price": 1799
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "brand_name": "Acer",
+    "country": "Taiwan",
+    "founded": 1976,
+    "models": [
+      {
+        "model_name": "Predator Helios 300",
+        "specifications": {
+          "processor": "Intel Core i7-12700H",
+          "ram": "16GB",
+          "storage": "512GB SSD",
+          "graphics": "NVIDIA RTX 3060"
+        },
+        "colors": [
+          {
+            "name": "Obsidian Black",
+            "hex": "#1C1C1C"
+          }
+        ],
+        "price": 1299
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "brand_name": "MSI",
+    "country": "Taiwan",
+    "founded": 1986,
+    "models": [
+      {
+        "model_name": "MSI Stealth 15M",
+        "specifications": {
+          "processor": "Intel Core i7-13700H",
+          "ram": "16GB",
+          "storage": "1TB SSD",
+          "graphics": "NVIDIA RTX 4060"
+        },
+        "colors": [
+          {
+            "name": "Carbon Gray",
+            "hex": "#555555"
+          }
+        ],
+        "price": 1599
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "brand_name": "Razer",
+    "country": "USA",
+    "founded": 2005,
+    "models": [
+      {
+        "model_name": "Razer Blade 16",
+        "specifications": {
+          "processor": "Intel Core i9-13950HX",
+          "ram": "32GB",
+          "storage": "1TB SSD",
+          "graphics": "NVIDIA RTX 4090"
+        },
+        "colors": [
+          {
+            "name": "Matte Black",
+            "hex": "#000000"
+          }
+        ],
+        "price": 3999
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "brand_name": "Samsung",
+    "country": "South Korea",
+    "founded": 1969,
+    "models": [
+      {
+        "model_name": "Galaxy Book 3 Ultra",
+        "specifications": {
+          "processor": "Intel Core i9-13900H",
+          "ram": "32GB",
+          "storage": "1TB SSD",
+          "graphics": "NVIDIA RTX 4070"
+        },
+        "colors": [
+          {
+            "name": "Graphite",
+            "hex": "#4D4D4D"
+          }
+        ],
+        "price": 2999
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "brand_name": "Microsoft",
+    "country": "USA",
+    "founded": 1975,
+    "models": [
+      {
+        "model_name": "Surface Laptop Studio",
+        "specifications": {
+          "processor": "Intel Core i7-13700H",
+          "ram": "32GB",
+          "storage": "1TB SSD",
+          "graphics": "NVIDIA RTX 3050 Ti"
+        },
+        "colors": [
+          {
+            "name": "Platinum",
+            "hex": "#E5E4E2"
+          }
+        ],
+        "price": 2499
+      }
+    ]
+  }
+]
