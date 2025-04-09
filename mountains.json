@@ -1,0 +1,235 @@
+[
+  {
+    "Name": "Mount Everest",
+    "Elevation": 8848,
+    "Location": "Asia, Nepal/China",
+    "MountainType": "Fold Mountain",
+    "Range": "Himalayas",
+    "Country": [
+      "Nepal",
+      "China"
+    ],
+    "ClimaticConditions": {
+      "Summer": {
+        "AverageTemperature": -2,
+        "MaximumTemperature": 15
+      },
+      "Winter": {
+        "AverageTemperature": -30,
+        "MinimumTemperature": -60
+      },
+      "Precipitation": "Low precipitation, mostly snow"
+    },
+    "EcologicalSignificance": "Home to rare species like the snow leopard and various high-altitude plants.",
+    "ProtectionStatus": "Sagarmatha National Park (Nepal) and Qomolangma National Nature Preserve (China)"
+  },
+  {
+    "Name": "K2",
+    "Elevation": 8611,
+    "Location": "Asia, Pakistan/China",
+    "MountainType": "Fold Mountain",
+    "Range": "Karakoram",
+    "Country": [
+      "Pakistan",
+      "China"
+    ],
+    "ClimaticConditions": {
+      "Summer": {
+        "AverageTemperature": -10,
+        "MaximumTemperature": 5
+      },
+      "Winter": {
+        "AverageTemperature": -45,
+        "MinimumTemperature": -60
+      },
+      "Precipitation": "Heavy snowfalls, especially in the winter"
+    },
+    "EcologicalSignificance": "Known for its extreme difficulty in climbing, with a high fatality rate.",
+    "ProtectionStatus": "Karakoram National Park (Pakistan)"
+  },
+  {
+    "Name": "Mount Kilimanjaro",
+    "Elevation": 5895,
+    "Location": "Africa, Tanzania",
+    "MountainType": "Volcanic Mountain",
+    "Range": "Eastern Rift Mountains",
+    "Country": [
+      "Tanzania"
+    ],
+    "ClimaticConditions": {
+      "Summer": {
+        "AverageTemperature": 18,
+        "MaximumTemperature": 30
+      },
+      "Winter": {
+        "AverageTemperature": 10,
+        "MinimumTemperature": -5
+      },
+      "Precipitation": "Moderate rainfall, more during the rainy seasons"
+    },
+    "EcologicalSignificance": "A unique ecosystem with multiple climate zones, ranging from rainforests to glaciers.",
+    "ProtectionStatus": "Mount Kilimanjaro National Park"
+  },
+  {
+    "Name": "Mount Fuji",
+    "Elevation": 3776,
+    "Location": "Asia, Japan",
+    "MountainType": "Volcanic Mountain",
+    "Range": "Fujinoyama",
+    "Country": [
+      "Japan"
+    ],
+    "ClimaticConditions": {
+      "Summer": {
+        "AverageTemperature": 5,
+        "MaximumTemperature": 20
+      },
+      "Winter": {
+        "AverageTemperature": -5,
+        "MinimumTemperature": -15
+      },
+      "Precipitation": "Low precipitation, occasional snow"
+    },
+    "EcologicalSignificance": "Mount Fuji is an iconic mountain and a UNESCO World Heritage Site, symbolizing Japan.",
+    "ProtectionStatus": "Fujisan World Heritage Site"
+  },
+  {
+    "Name": "Mount Denali",
+    "Elevation": 6190,
+    "Location": "North America, United States (Alaska)",
+    "MountainType": "Fold Mountain",
+    "Range": "Alaska Range",
+    "Country": [
+      "United States"
+    ],
+    "ClimaticConditions": {
+      "Summer": {
+        "AverageTemperature": 10,
+        "MaximumTemperature": 20
+      },
+      "Winter": {
+        "AverageTemperature": -20,
+        "MinimumTemperature": -50
+      },
+      "Precipitation": "Heavy snow in winter, mild rainfall in summer"
+    },
+    "EcologicalSignificance": "The highest peak in North America, home to numerous wildlife species, including grizzly bears and moose.",
+    "ProtectionStatus": "Denali National Park"
+  },
+  {
+    "Name": "Mont Blanc",
+    "Elevation": 4807,
+    "Location": "Europe, France/Italy",
+    "MountainType": "Fold Mountain",
+    "Range": "Alps",
+    "Country": [
+      "France",
+      "Italy"
+    ],
+    "ClimaticConditions": {
+      "Summer": {
+        "AverageTemperature": 10,
+        "MaximumTemperature": 15
+      },
+      "Winter": {
+        "AverageTemperature": -10,
+        "MinimumTemperature": -20
+      },
+      "Precipitation": "Heavy snowfall in winter, moderate rainfall in summer"
+    },
+    "EcologicalSignificance": "A major destination for mountaineers and tourists, and the highest mountain in the Alps.",
+    "ProtectionStatus": "Mont Blanc Massif Nature Reserve"
+  },
+  {
+    "Name": "Mount Elbrus",
+    "Elevation": 5642,
+    "Location": "Europe, Russia",
+    "MountainType": "Volcanic Mountain",
+    "Range": "Caucasus Mountains",
+    "Country": [
+      "Russia"
+    ],
+    "ClimaticConditions": {
+      "Summer": {
+        "AverageTemperature": 10,
+        "MaximumTemperature": 20
+      },
+      "Winter": {
+        "AverageTemperature": -15,
+        "MinimumTemperature": -35
+      },
+      "Precipitation": "Snow and rain, more common in the winter"
+    },
+    "EcologicalSignificance": "The highest mountain in Europe, popular for mountaineering and skiing.",
+    "ProtectionStatus": "Caucasus Nature Reserve"
+  },
+  {
+    "Name": "Mount Aconcagua",
+    "Elevation": 6962,
+    "Location": "South America, Argentina",
+    "MountainType": "Fold Mountain",
+    "Range": "Andes",
+    "Country": [
+      "Argentina"
+    ],
+    "ClimaticConditions": {
+      "Summer": {
+        "AverageTemperature": 10,
+        "MaximumTemperature": 25
+      },
+      "Winter": {
+        "AverageTemperature": -10,
+        "MinimumTemperature": -30
+      },
+      "Precipitation": "Dry climate, with moderate snowfall in winter"
+    },
+    "EcologicalSignificance": "The highest peak in the Western Hemisphere, with a unique high-altitude ecosystem.",
+    "ProtectionStatus": "Aconcagua Provincial Park"
+  },
+  {
+    "Name": "Mount Kilimanjaro",
+    "Elevation": 5895,
+    "Location": "Africa, Tanzania",
+    "MountainType": "Volcanic Mountain",
+    "Range": "Eastern Rift Mountains",
+    "Country": [
+      "Tanzania"
+    ],
+    "ClimaticConditions": {
+      "Summer": {
+        "AverageTemperature": 18,
+        "MaximumTemperature": 30
+      },
+      "Winter": {
+        "AverageTemperature": 10,
+        "MinimumTemperature": -5
+      },
+      "Precipitation": "Moderate rainfall, more during the rainy seasons"
+    },
+    "EcologicalSignificance": "A unique ecosystem with multiple climate zones, ranging from rainforests to glaciers.",
+    "ProtectionStatus": "Mount Kilimanjaro National Park"
+  },
+  {
+    "Name": "Mount Kosciuszko",
+    "Elevation": 2228,
+    "Location": "Australia, New South Wales",
+    "MountainType": "Fold Mountain",
+    "Range": "Snowy Mountains",
+    "Country": [
+      "Australia"
+    ],
+    "ClimaticConditions": {
+      "Summer": {
+        "AverageTemperature": 12,
+        "MaximumTemperature": 18
+      },
+      "Winter": {
+        "AverageTemperature": -3,
+        "MinimumTemperature": -10
+      },
+      "Precipitation": "Moderate snowfall in winter, mild rainfall in summer"
+    },
+    "EcologicalSignificance": "The highest mountain in Australia, popular for hiking and skiing.",
+    "ProtectionStatus": "Kosciuszko National Park"
+  }
+]

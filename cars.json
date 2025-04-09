@@ -1,0 +1,322 @@
+[
+  {
+    "Name": "Tesla Model S",
+    "Brand": "Tesla",
+    "ModelYear": 2023,
+    "Engine": {
+      "Type": "Electric",
+      "Power": "670 hp",
+      "Torque": "824 Nm"
+    },
+    "Performance": {
+      "0to60": "1.99 seconds",
+      "TopSpeed": "200 mph",
+      "Range": "405 miles"
+    },
+    "FuelEconomy": {
+      "City": "124 MPGe",
+      "Highway": "115 MPGe"
+    },
+    "Price": {
+      "Base": "$94,990",
+      "FullyLoaded": "$120,000"
+    },
+    "Technology": {
+      "Autopilot": "Standard",
+      "Infotainment": "17-inch touchscreen, Premium audio"
+    },
+    "SafetyFeatures": [
+      "Full self-driving capability",
+      "Automatic emergency braking",
+      "Lane-keeping assist"
+    ],
+    "CommonIssues": [
+      "Over-the-air software glitches",
+      "Door handles freezing in cold weather"
+    ],
+    "Warranty": {
+      "Basic": "4 years or 50,000 miles",
+      "Battery": "8 years or 150,000 miles"
+    }
+  },
+  {
+    "Name": "Ford Mustang GT",
+    "Brand": "Ford",
+    "ModelYear": 2023,
+    "Engine": {
+      "Type": "V8",
+      "Power": "450 hp",
+      "Torque": "410 lb-ft"
+    },
+    "Performance": {
+      "0to60": "4.2 seconds",
+      "TopSpeed": "155 mph",
+      "Range": "300 miles"
+    },
+    "FuelEconomy": {
+      "City": "15 mpg",
+      "Highway": "24 mpg"
+    },
+    "Price": {
+      "Base": "$43,000",
+      "FullyLoaded": "$55,000"
+    },
+    "Technology": {
+      "Autopilot": "Not Available",
+      "Infotainment": "8-inch touchscreen, Apple CarPlay"
+    },
+    "SafetyFeatures": [
+      "Rearview camera",
+      "Adaptive cruise control",
+      "Pre-collision assist"
+    ],
+    "CommonIssues": [
+      "Transmission slipping",
+      "Suspension noise"
+    ],
+    "Warranty": {
+      "Basic": "3 years or 36,000 miles",
+      "Powertrain": "5 years or 60,000 miles"
+    }
+  },
+  {
+    "Name": "BMW 3 Series",
+    "Brand": "BMW",
+    "ModelYear": 2023,
+    "Engine": {
+      "Type": "Inline-4 Turbo",
+      "Power": "255 hp",
+      "Torque": "294 lb-ft"
+    },
+    "Performance": {
+      "0to60": "5.6 seconds",
+      "TopSpeed": "155 mph",
+      "Range": "330 miles"
+    },
+    "FuelEconomy": {
+      "City": "26 mpg",
+      "Highway": "36 mpg"
+    },
+    "Price": {
+      "Base": "$42,800",
+      "FullyLoaded": "$55,000"
+    },
+    "Technology": {
+      "Autopilot": "Standard",
+      "Infotainment": "10.25-inch touchscreen, Gesture control"
+    },
+    "SafetyFeatures": [
+      "Blind-spot monitoring",
+      "Parking sensors",
+      "Lane-departure warning"
+    ],
+    "CommonIssues": [
+      "Electrical system malfunctions",
+      "Steering wheel vibration"
+    ],
+    "Warranty": {
+      "Basic": "4 years or 50,000 miles",
+      "Powertrain": "4 years or 50,000 miles"
+    }
+  },
+  {
+    "Name": "Chevrolet Bolt EV",
+    "Brand": "Chevrolet",
+    "ModelYear": 2023,
+    "Engine": {
+      "Type": "Electric",
+      "Power": "200 hp",
+      "Torque": "266 lb-ft"
+    },
+    "Performance": {
+      "0to60": "6.5 seconds",
+      "TopSpeed": "93 mph",
+      "Range": "259 miles"
+    },
+    "FuelEconomy": {
+      "City": "127 MPGe",
+      "Highway": "108 MPGe"
+    },
+    "Price": {
+      "Base": "$26,500",
+      "FullyLoaded": "$32,000"
+    },
+    "Technology": {
+      "Autopilot": "Not Available",
+      "Infotainment": "10.2-inch touchscreen, Apple CarPlay"
+    },
+    "SafetyFeatures": [
+      "Automatic emergency braking",
+      "Pedestrian detection",
+      "Rearview camera"
+    ],
+    "CommonIssues": [
+      "Battery degradation",
+      "Charging issues in cold weather"
+    ],
+    "Warranty": {
+      "Basic": "3 years or 36,000 miles",
+      "Powertrain": "8 years or 100,000 miles"
+    }
+  },
+  {
+    "Name": "Audi A4",
+    "Brand": "Audi",
+    "ModelYear": 2023,
+    "Engine": {
+      "Type": "Inline-4 Turbo",
+      "Power": "201 hp",
+      "Torque": "236 lb-ft"
+    },
+    "Performance": {
+      "0to60": "6.0 seconds",
+      "TopSpeed": "130 mph",
+      "Range": "400 miles"
+    },
+    "FuelEconomy": {
+      "City": "25 mpg",
+      "Highway": "34 mpg"
+    },
+    "Price": {
+      "Base": "$40,000",
+      "FullyLoaded": "$50,000"
+    },
+    "Technology": {
+      "Autopilot": "Available",
+      "Infotainment": "10.1-inch touchscreen, Virtual cockpit"
+    },
+    "SafetyFeatures": [
+      "Audi pre-sense basic",
+      "Adaptive cruise control",
+      "Lane-keeping assist"
+    ],
+    "CommonIssues": [
+      "Electrical system failures",
+      "Water pump issues"
+    ],
+    "Warranty": {
+      "Basic": "4 years or 50,000 miles",
+      "Powertrain": "4 years or 50,000 miles"
+    }
+  },
+  {
+    "Name": "Honda Civic",
+    "Brand": "Honda",
+    "ModelYear": 2023,
+    "Engine": {
+      "Type": "Inline-4",
+      "Power": "158 hp",
+      "Torque": "138 lb-ft"
+    },
+    "Performance": {
+      "0to60": "7.5 seconds",
+      "TopSpeed": "125 mph",
+      "Range": "400 miles"
+    },
+    "FuelEconomy": {
+      "City": "30 mpg",
+      "Highway": "38 mpg"
+    },
+    "Price": {
+      "Base": "$23,000",
+      "FullyLoaded": "$28,000"
+    },
+    "Technology": {
+      "Autopilot": "Not Available",
+      "Infotainment": "7-inch touchscreen, Apple CarPlay"
+    },
+    "SafetyFeatures": [
+      "Honda Sensing suite",
+      "Lane-keeping assist",
+      "Forward collision warning"
+    ],
+    "CommonIssues": [
+      "Transmission issues",
+      "AC system failures"
+    ],
+    "Warranty": {
+      "Basic": "3 years or 36,000 miles",
+      "Powertrain": "5 years or 60,000 miles"
+    }
+  },
+  {
+    "Name": "Mercedes-Benz C-Class",
+    "Brand": "Mercedes-Benz",
+    "ModelYear": 2023,
+    "Engine": {
+      "Type": "Inline-4 Turbo",
+      "Power": "255 hp",
+      "Torque": "273 lb-ft"
+    },
+    "Performance": {
+      "0to60": "5.6 seconds",
+      "TopSpeed": "130 mph",
+      "Range": "350 miles"
+    },
+    "FuelEconomy": {
+      "City": "23 mpg",
+      "Highway": "34 mpg"
+    },
+    "Price": {
+      "Base": "$45,000",
+      "FullyLoaded": "$60,000"
+    },
+    "Technology": {
+      "Autopilot": "Available",
+      "Infotainment": "12.3-inch display, MBUX system"
+    },
+    "SafetyFeatures": [
+      "Active brake assist",
+      "Crosswind assist",
+      "Attention assist"
+    ],
+    "CommonIssues": [
+      "Infotainment system glitches",
+      "Suspension issues"
+    ],
+    "Warranty": {
+      "Basic": "4 years or 50,000 miles",
+      "Powertrain": "4 years or 50,000 miles"
+    }
+  },
+  {
+    "Name": "Nissan Leaf",
+    "Brand": "Nissan",
+    "ModelYear": 2023,
+    "Engine": {
+      "Type": "Electric",
+      "Power": "147 hp",
+      "Torque": "236 lb-ft"
+    },
+    "Performance": {
+      "0to60": "6.9 seconds",
+      "TopSpeed": "93 mph",
+      "Range": "226 miles"
+    },
+    "FuelEconomy": {
+      "City": "123 MPGe",
+      "Highway": "99 MPGe"
+    },
+    "Price": {
+      "Base": "$27,400",
+      "FullyLoaded": "$37,000"
+    },
+    "Technology": {
+      "Autopilot": "Not Available",
+      "Infotainment": "8-inch touchscreen, Apple CarPlay"
+    },
+    "SafetyFeatures": [
+      "Automatic emergency braking",
+      "Blind-spot monitoring",
+      "Rear cross-traffic alert"
+    ],
+    "CommonIssues": [
+      "Battery capacity degradation",
+      "Charging issues"
+    ],
+    "Warranty": {
+      "Basic": "3 years or 36,000 miles",
+      "Powertrain": "8 years or 100,000 miles"
+    }
+  }
+]

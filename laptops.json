@@ -1,0 +1,293 @@
+[
+  {
+    "Name": "Apple MacBook Pro 16-inch",
+    "Brand": "Apple",
+    "ModelYear": 2023,
+    "Processor": {
+      "Type": "Apple M2 Pro",
+      "Cores": "10 cores",
+      "Speed": "3.5 GHz"
+    },
+    "Performance": {
+      "RAM": "16 GB",
+      "StorageOptions": ["512 GB SSD", "1 TB SSD", "2 TB SSD"],
+      "BatteryLife": "21 hours"
+    },
+    "Display": {
+      "Size": "16.2 inches",
+      "Resolution": "3456 x 2234",
+      "Type": "Liquid Retina XDR"
+    },
+    "Price": {
+      "Base": "$2,499",
+      "FullyLoaded": "$3,499"
+    },
+    "Technology": {
+      "TouchBar": "Yes",
+      "TouchID": "Yes",
+      "Ports": "3x Thunderbolt 4, HDMI, SDXC card slot"
+    },
+    "CommonIssues": [
+      "Expensive repair costs",
+      "Keyboard issues in earlier models"
+    ],
+    "Warranty": {
+      "Basic": "1 year",
+      "Extended": "AppleCare+ available"
+    }
+  },
+  {
+    "Name": "Dell XPS 13",
+    "Brand": "Dell",
+    "ModelYear": 2023,
+    "Processor": {
+      "Type": "Intel Core i7-1365U",
+      "Cores": "10 cores",
+      "Speed": "4.7 GHz"
+    },
+    "Performance": {
+      "RAM": "16 GB",
+      "StorageOptions": ["512 GB SSD", "1 TB SSD"],
+      "BatteryLife": "14 hours"
+    },
+    "Display": {
+      "Size": "13.4 inches",
+      "Resolution": "1920 x 1200",
+      "Type": "InfinityEdge, IPS"
+    },
+    "Price": {
+      "Base": "$1,299",
+      "FullyLoaded": "$1,799"
+    },
+    "Technology": {
+      "Webcam": "720p",
+      "Ports": "2x Thunderbolt 4, microSD card reader"
+    },
+    "CommonIssues": [
+      "Overheating under load",
+      "Occasional touchpad malfunctions"
+    ],
+    "Warranty": {
+      "Basic": "1 year",
+      "Extended": "Premium Support available"
+    }
+  },
+  {
+    "Name": "HP Spectre x360 14",
+    "Brand": "HP",
+    "ModelYear": 2023,
+    "Processor": {
+      "Type": "Intel Core i5-1235U",
+      "Cores": "10 cores",
+      "Speed": "4.4 GHz"
+    },
+    "Performance": {
+      "RAM": "8 GB",
+      "StorageOptions": ["256 GB SSD", "512 GB SSD"],
+      "BatteryLife": "12 hours"
+    },
+    "Display": {
+      "Size": "13.5 inches",
+      "Resolution": "1920 x 1280",
+      "Type": "OLED"
+    },
+    "Price": {
+      "Base": "$1,149",
+      "FullyLoaded": "$1,649"
+    },
+    "Technology": {
+      "Touchscreen": "Yes",
+      "Ports": "2x Thunderbolt 4, USB-A, microSD reader"
+    },
+    "CommonIssues": [
+      "Screen flickering under heavy load",
+      "Occasional fan noise"
+    ],
+    "Warranty": {
+      "Basic": "1 year",
+      "Extended": "HP Care Pack available"
+    }
+  },
+  {
+    "Name": "Lenovo ThinkPad X1 Carbon Gen 11",
+    "Brand": "Lenovo",
+    "ModelYear": 2023,
+    "Processor": {
+      "Type": "Intel Core i7-1365U",
+      "Cores": "12 cores",
+      "Speed": "4.8 GHz"
+    },
+    "Performance": {
+      "RAM": "16 GB",
+      "StorageOptions": ["1 TB SSD", "2 TB SSD"],
+      "BatteryLife": "14 hours"
+    },
+    "Display": {
+      "Size": "14 inches",
+      "Resolution": "2560 x 1600",
+      "Type": "IPS, anti-glare"
+    },
+    "Price": {
+      "Base": "$1,649",
+      "FullyLoaded": "$2,249"
+    },
+    "Technology": {
+      "FingerprintReader": "Yes",
+      "Webcam": "1080p",
+      "Ports": "2x Thunderbolt 4, HDMI, USB-A"
+    },
+    "CommonIssues": [
+      "Keyboard flex",
+      "Fan speed inconsistencies"
+    ],
+    "Warranty": {
+      "Basic": "1 year",
+      "Extended": "Lenovo Premier Support available"
+    }
+  },
+  {
+    "Name": "Microsoft Surface Laptop 5",
+    "Brand": "Microsoft",
+    "ModelYear": 2023,
+    "Processor": {
+      "Type": "Intel Core i7-1265U",
+      "Cores": "10 cores",
+      "Speed": "4.8 GHz"
+    },
+    "Performance": {
+      "RAM": "16 GB",
+      "StorageOptions": ["512 GB SSD", "1 TB SSD"],
+      "BatteryLife": "14 hours"
+    },
+    "Display": {
+      "Size": "15 inches",
+      "Resolution": "2496 x 1664",
+      "Type": "PixelSense"
+    },
+    "Price": {
+      "Base": "$1,399",
+      "FullyLoaded": "$1,799"
+    },
+    "Technology": {
+      "Webcam": "720p",
+      "Ports": "2x USB-C, USB-A, Surface Connect"
+    },
+    "CommonIssues": [
+      "Screen hinge problems",
+      "Overheating under load"
+    ],
+    "Warranty": {
+      "Basic": "1 year",
+      "Extended": "Microsoft Complete available"
+    }
+  },
+  {
+    "Name": "Asus ZenBook 14",
+    "Brand": "Asus",
+    "ModelYear": 2023,
+    "Processor": {
+      "Type": "AMD Ryzen 7 7730U",
+      "Cores": "8 cores",
+      "Speed": "4.2 GHz"
+    },
+    "Performance": {
+      "RAM": "16 GB",
+      "StorageOptions": ["512 GB SSD", "1 TB SSD"],
+      "BatteryLife": "15 hours"
+    },
+    "Display": {
+      "Size": "14 inches",
+      "Resolution": "1920 x 1200",
+      "Type": "IPS, anti-glare"
+    },
+    "Price": {
+      "Base": "$1,199",
+      "FullyLoaded": "$1,599"
+    },
+    "Technology": {
+      "FingerprintReader": "Yes",
+      "Webcam": "720p",
+      "Ports": "1x USB-A, 2x USB-C, HDMI"
+    },
+    "CommonIssues": [
+      "Loud fan under load",
+      "Occasional screen flickering"
+    ],
+    "Warranty": {
+      "Basic": "1 year",
+      "Extended": "Asus Premium Care available"
+    }
+  },
+  {
+    "Name": "Razer Blade 15 Advanced",
+    "Brand": "Razer",
+    "ModelYear": 2023,
+    "Processor": {
+      "Type": "Intel Core i9-13900H",
+      "Cores": "14 cores",
+      "Speed": "5.4 GHz"
+    },
+    "Performance": {
+      "RAM": "32 GB",
+      "StorageOptions": ["1 TB SSD", "2 TB SSD"],
+      "BatteryLife": "14 hours"
+    },
+    "Display": {
+      "Size": "15.6 inches",
+      "Resolution": "2560 x 1440",
+      "Type": "OLED"
+    },
+    "Price": {
+      "Base": "$2,099",
+      "FullyLoaded": "$2,599"
+    },
+    "Technology": {
+      "Webcam": "1080p",
+      "Ports": "3x USB-C, 1x USB-A, HDMI"
+    },
+    "CommonIssues": [
+      "Battery drain under heavy use",
+      "High fan noise under load"
+    ],
+    "Warranty": {
+      "Basic": "1 year",
+      "Extended": "Razer Care available"
+    }
+  },
+  {
+    "Name": "Acer Swift 3",
+    "Brand": "Acer",
+    "ModelYear": 2023,
+    "Processor": {
+      "Type": "Intel Core i5-1235U",
+      "Cores": "10 cores",
+      "Speed": "4.4 GHz"
+    },
+    "Performance": {
+      "RAM": "8 GB",
+      "StorageOptions": ["256 GB SSD", "512 GB SSD"],
+      "BatteryLife": "10 hours"
+    },
+    "Display": {
+      "Size": "14 inches",
+      "Resolution": "1920 x 1080",
+      "Type": "IPS"
+    },
+    "Price": {
+      "Base": "$799",
+      "FullyLoaded": "$1,099"
+    },
+    "Technology": {
+      "Webcam": "720p",
+      "Ports": "2x USB-A, 2x USB-C, HDMI"
+    },
+    "CommonIssues": [
+      "Occasional screen flicker",
+      "Keyboard flex"
+    ],
+    "Warranty": {
+      "Basic": "1 year",
+      "Extended": "Acer Care+ available"
+    }
+  }
+]
